@@ -1,0 +1,6 @@
+pwd
+ls
+date
+df -h
+du -sh * 
+free -h
